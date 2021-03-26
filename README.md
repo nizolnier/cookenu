@@ -14,12 +14,12 @@ Cookenu is a REST API to create recipes and make friends! 👩‍🍳
 
 
 <a id="documentation"></a>
-## ♦ Documentation
+## ✦ Documentation
 - [Postman](https://documenter.getpostman.com/view/13242152/TzCJfVEu)
 - [Endpoints](ENDPOINTS.md)
 
 <a id="steps"></a>
-## ♦ Getting Started
+## ✦ Getting Started
 1- clone this repository
 
 2- run this command
@@ -56,13 +56,13 @@ npm start
 6- YOU'RE ICE CREAM IS READY!!!
 
 <a id="en-scripts"></a>
-## ♦ Available Scripts:
+## ✦ Available Scripts
 * `npm run setup` to create tables
 * `npm run start` to run the aplication
 * `npm run dev` to run the aplication with hot reload
 
 <a id="features"></a>
-## ♦ Features
+## ✦ Features
 * Sign up
 * Login
 * Follow user
@@ -77,7 +77,7 @@ npm start
 * Get a specific recipe
 
 <a id="libs"></a>
-## ♦ Libraries and Frameworks:
+## ✦ Libraries and Frameworks:
 * cors
 * express
 * knex
@@ -106,12 +106,12 @@ Cookenu é uma API REST para criar receitas e fazer amigos! 👩‍🍳
 
 
 <a id="documentacao"></a>
-## ♦ Documentação
+## ✦ Documentação
 - [Postman](https://documenter.getpostman.com/view/13242152/TzCJfVEu)
 - [Endpoints](ENDPOINTS.md)
 
 <a id="passos"></a>
-## ♦ Primeiros Passos
+## ✦ Primeiros Passos
 1- clone ese repositório
 
 2- rode o comando abaixo
@@ -148,13 +148,13 @@ npm start
 6- TÁ PRONTO O SORVETINHOOOOO!
 
 <a id="pt-scripts"></a>
-## ♦ Scripts Disponíveis:
+## ✦ Scripts Disponíveis:
 * `npm run setup` para criar as tabelas
 * `npm run start` para rodar a aplicação
 * `npm run dev` para iniciar a aplicação com hot reload
 
 <a id="funcionalidades"></a>
-## ♦ Funcionalidades:
+## ✦ Funcionalidades:
 * Cadastro
 * Login
 * Seguir usuário
@@ -169,7 +169,7 @@ npm start
 * Ver uma receita em específico
 
 <a id="bibliotecas"></a>
-## ♦ Bibliotecas e Frameworks:
+## ✦ Bibliotecas e Frameworks:
 * cors
 * express
 * knex
