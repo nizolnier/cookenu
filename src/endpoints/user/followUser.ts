@@ -26,7 +26,7 @@ export const followUser = async (req: Request, res: Response) => {
 
         if(!followerData || !userToFollowData){
             res.statusCode = 404
-            throw new Error ('User/s not found.')
+            throw new Error ('Users not found.')
         } else {
             const newFollow: following = {
                 follower_id: tokenData.id,
