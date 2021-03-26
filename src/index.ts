@@ -1,11 +1,6 @@
-// Libraries
 import express, { Express } from 'express'
 import cors from 'cors'
-
-// Connection
 import { AddressInfo } from 'net'
-
-// Endpoints
 import { signUp } from './endpoints/user/signUp'
 import { login } from './endpoints/user/login'
 import { getOwnProfile } from './endpoints/user/getOwnProfile'
@@ -38,7 +33,7 @@ app.post('/recipe/create', createRecipe)
 app.get('/recipe/:id', getRecipeById)
 
 
-// Server
+
 const server = app.listen(process.env.PORT || 3003, () => {
     if (server) {
        const address = server.address() as AddressInfo
