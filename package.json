@@ -9,7 +9,7 @@
       "setup": "tsc && node ./build/data/setup.js",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
-   "author": "Bruno Mugnol",
+   "author": "Nicole Zolnier",
    "license": "ISC",
    "dependencies": {
       "axios": "^0.21.1",
