@@ -58,8 +58,8 @@ npm start
 <a id="en-scripts"></a>
 ## ✦ Available Scripts
 * `npm run setup` to create tables
-* `npm run start` to run the aplication
-* `npm run dev` to run the aplication with hot reload
+* `npm run start` to run the application
+* `npm run dev` to run the application with hot reload
 
 <a id="features"></a>
 ## ✦ Features
