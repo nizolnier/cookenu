@@ -4,7 +4,7 @@
 - [Recipe Endpoints](#recipe)
 
 <a id="user"></a>
-## ♦ **User Endpoints**
+## ✦ **User Endpoints**
 
 ## **POST** Sign Up
 
@@ -187,7 +187,7 @@ authorization: "token"
 ```
 ----------------
 <a id="recipe"></a>
-## ♦ Recipe Endpoints
+## ✦ Recipe Endpoints
 
 
 ## **POST** Create Recipe
